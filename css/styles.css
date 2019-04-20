@@ -1,0 +1,133 @@
+body{
+  margin: 0;
+
+}
+.top{
+  background-color: #74b49b;
+  text-align: center;
+
+}
+
+hr{
+  border: dotted 6px;
+  border-bottom: none;
+  width: 7%;
+  margin: 50px auto;
+
+}
+
+p{
+  width: 50%;
+  margin: auto;
+  font-family:Charm;
+  font-size: 20px;
+}
+
+.profile{
+  padding-bottom:20px;
+}
+
+.skill-row{
+  padding-bottom: 10px;
+}
+
+
+h1{
+  font-family: Sacramento;
+  font-size: 50px;
+}
+
+.forp{
+   font-family: Pacifico;
+    font-size: 20px;
+}
+
+.pro{
+  border-radius: 100%;
+}
+
+.mount{
+  position: relative;
+  top: 4px;
+  right: 30px;
+}
+
+.clo1{
+  position: relative;
+  left: 400px;
+  height: 100px;
+  width: 100px;
+  top: 50px;
+}
+
+.clo2{
+   position: relative;
+   bottom: 300px;
+   height: 100px;
+   width: 100px;
+}
+
+.middle{
+text-align: center;
+position: relative;
+background-color: #393e46;
+color: #eeeeee;
+padding:45px;
+padding-bottom: 50px;
+size:15px;
+}
+
+.wimg{
+border-radius: 100%;
+width: 7%;
+}
+
+.jimg{
+  border-radius: 100%;
+  width: 5%;
+  height: 5%;
+}
+
+
+
+
+
+.btn{
+  border: solid 1px;
+  padding: 10px;
+  color: black;
+  background-color: #74b49b;
+  position: relative;
+  top: 25px;
+
+}
+.contact-me{
+line-height: 1.5;
+padding: 5px;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+.bottom{
+  text-align: center;
+  position: relative;
+
+  padding:25px;
+  background-color: #74b49b;
+}
+
+.footer-link{
+  color: black;
+  font-family:Montserrat;
+  padding: 20px;
+  text-decoration: none;
+}
+
+.pfoot{
+  font-family:Montserrat;
+  color: black;
+  font-size: 0.95rem;
+  padding: 20px 0;
+}
